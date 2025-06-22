@@ -5,13 +5,9 @@ EV Battery engineer
 -------------------
 
 Automotive electrification is both an environmental necessity and an immense technological challenge that demands a new generation of highly skilled engineers.
-
-With over three years of professional experience contributing to the design of electric vehicle drive-train systems, with a master’s degree in electrical engineering, I seek to elevate my expertise through project-based learning and teaching in the sustainable transport and renewable energy sector.
-
-My research and career development are tailored toward battery energy storage systems for mobile applications such as BEV, PHEVs, EVs, and REEVs.
-
+With over three years of professional experience contributing to the design of electric vehicle drive-train systems, with a master’s degree in electrical engineering, I seek to elevate my expertise through project-based learning and teaching in the sustainable transport and renewable energy sector. <br>
+<strong>My research and career development are tailored toward battery energy storage systems for mobile applications such as BEV, PHEVs, EVs, and REEVs.
 As well as stationary applications such as microgrid and smart grid ESS, residential UPS, etc.
-
 * 🌍  I'm based in Beijing, CHN
 * 🖥️  See my portfolio at [My Engineering portfolio](http://nicolasbammaou.netlify.app/)
 * ✉️  You can contact me at [bamamounicolas@gmail.com](mailto:bamamounicolas@gmail.com)
